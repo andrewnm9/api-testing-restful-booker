@@ -21,4 +21,4 @@
 <br />
 
 # Running Tests:
-	1. Run tests by opening a command window, navigate to the api-testing-restful-booker folder, and running pytest
+	1. Run tests by opening a command window, activating the virtual environment, navigate to the api-testing-restful-booker folder, and running pytest
