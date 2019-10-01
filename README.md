@@ -14,7 +14,7 @@
 
 <br />
 
-# Adding Integration Tests:
+# Adding End to End Tests:
 	1. Open test_api_end_to_end.py in a text editor
 	2. Create a new test as a function, using the API test class methods as test steps
 
