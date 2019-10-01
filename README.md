@@ -1,3 +1,7 @@
+# api-testing-restful-booker
+	A repository for testing REST APIs on https://automationintesting.online/
+<br />
+
 # Setup Steps:
 	1. Install python 3.7
 	2. Clone the repository from web url (https://github.com/andrewnm9/api-testing-restful-booker.git)
